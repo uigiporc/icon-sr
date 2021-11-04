@@ -33,7 +33,7 @@ def decode_batch_predictions(pred):
     return output_text
 
 
-model = tf.keras.models.load_model('./inference/pretrained_model/', compile=False)
+model = tf.keras.models.load_model('./pretrained_model/', compile=False)
 
 
 def predict_audio(audio, sr, model):
