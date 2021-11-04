@@ -5,6 +5,10 @@ Based on:
 - Python 3.9
 - Tensorflow 2.6.1
 
+Example of usage:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/MauYpl7QP1M/0.jpg)](http://www.youtube.com/watch?v=MauYpl7QP1M "Video Title")
+
 # Prerequisites
 
 - Clone the repository:
